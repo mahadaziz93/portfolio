@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- IMPACT Geometric Triangular Monogram -->
+  <g transform="translate(10, 10)">
+    <path d="M 30 0 L 0 60 L 16 60 L 25 42 L 35 42 L 44 60 L 60 60 Z M 30 18 L 33 26 L 27 26 Z" fill="#ffffff" />
+    <path d="M 12 60 L 48 60 L 48 55 L 12 55 Z" fill="#ffffff" opacity="0.9" />
+  </g>
+  <!-- IMPACT ENTERPRISE Typography -->
+  <text x="85" y="38" fill="#ffffff" font-family="'Space Grotesk', 'Inter', -apple-system, sans-serif" font-weight="900" font-size="28" letter-spacing="3">IMPACT</text>
+  <text x="86" y="55" fill="#a0a0b0" font-family="'Space Grotesk', 'Inter', -apple-system, sans-serif" font-weight="600" font-size="11" letter-spacing="6">ENTERPRISE</text>
+</svg>

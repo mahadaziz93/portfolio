@@ -1,0 +1,12 @@
+{
+  "name": "mahad-aziz-cinematic-portfolio",
+  "version": "1.0.0",
+  "description": "Mahad Aziz — Co-Founder | IMPACT Enterprise — Cinematic 4K Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["portfolio", "cinematic", "impact-enterprise", "mahad-aziz"],
+  "author": "Mahad Aziz",
+  "license": "ISC"
+}
